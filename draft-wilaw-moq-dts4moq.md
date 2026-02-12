@@ -28,6 +28,37 @@ author:
     organization: Akamai
     email: "2762250+wilaw@users.noreply.github.com"
 
+ -
+    name: Ian Swett
+    organization: Google
+    email: ianswett@google.com
+
+ -
+    name: Suhas Nandakumar
+    organization: Cisco
+    email: snandaku@cisco.com
+
+  -
+    name: Victor Vasiliev
+    organization: Google
+    email: vasilvv@google.com
+
+  -
+    name: Ali Begen
+    organization: Ozyegin University
+    email: ali.begen@ozyegin.edu.tr
+
+  -
+    name: Zafer Gurel
+    organization: Ozyegin University
+    email: zafer.gurel@ozu.edu.tr
+
+  -
+    name: Gwendal Simon
+    organization: Synamedia
+    email: gsimon@synamedia.com
+
+
 normative:
   MOQT: I-D.draft-ietf-moq-transport-16
 
