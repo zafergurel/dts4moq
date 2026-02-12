@@ -19,11 +19,10 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Dynamic Track Switching for MOQT relays"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-wilaw-moq-dts4moq-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,8 +44,8 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Will Law
+    organization: Akamai
     email: your.email@example.com
 
 normative:
